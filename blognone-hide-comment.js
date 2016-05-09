@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       Rachasak Ragkamnerd
-// @match        https://www.blognone.com/
+// @match        https://www.blognone.com/node/*
 // @grant        none
 // ==/UserScript==
 
